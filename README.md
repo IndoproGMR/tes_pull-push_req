@@ -42,4 +42,8 @@ untuk menggabungkan branch swich ke branch yang mana yang mau di gabungkan denga
 $git switch master
 $git marge (NIM)
 
+lalu sambungkan git dengan github remote
+$git remote add origin https://github.com/IndoproGMR/tes_pull-push_req.git
+
+ git push -u origin master
 
