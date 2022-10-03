@@ -50,7 +50,10 @@ $git pull origin master --allow-unrelated-histories
 
 untuk mengambil code dari branch lain
 
-ext
+ext :
+
 GitHub Pull Requests and Issues
+
 GitLens — Git supercharged
+
 Todo MD
