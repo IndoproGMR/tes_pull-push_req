@@ -49,3 +49,8 @@ bila tidak dapat mengambil code dari github
 $git pull origin master --allow-unrelated-histories
 
 untuk mengambil code dari branch lain
+
+ext
+GitHub Pull Requests and Issues
+GitLens — Git supercharged
+Todo MD
