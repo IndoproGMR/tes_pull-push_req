@@ -57,3 +57,15 @@ GitHub Pull Requests and Issues
 GitLens — Git supercharged
 
 Todo MD
+
+untuk install fremwork Code Igniter
+
+download XAMPP https://www.apachefriends.org/download.html
+
+download composer https://getcomposer.org/
+
+centang "masukan php sebagai path"
+
+lalu install Code Ignater dengan composer https://codeigniter.com/user_guide/installation/installing_composer.html
+
+$composer create-project codeigniter4/appstarter --no-dev
