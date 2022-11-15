@@ -69,3 +69,8 @@ centang "masukan php sebagai path"
 lalu install Code Ignater dengan composer https://codeigniter.com/user_guide/installation/installing_composer.html
 
 $composer create-project codeigniter4/appstarter --no-dev
+
+
+lalu install laravel dengan composer https://laravel.com/docs/9.x#your-first-laravel-project
+
+composer create-project laravel/laravel example-app
